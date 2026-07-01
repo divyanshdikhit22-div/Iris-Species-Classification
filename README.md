@@ -1,5 +1,13 @@
 # Iris Species Classification
 
+## Internship Project
+
+**Name:** Divyansh
+
+**Intern ID:** CTT165
+
+**Domain:** Data Science
+
 ## Project Overview
 
 This project classifies Iris flower species using Machine Learning algorithms.
